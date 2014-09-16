@@ -15,7 +15,7 @@ public class Diff2A {
 			diff = a - b;
 		else
 			diff = b - a;
-		System.out.println("それらの差" + diff + "です。");
+		System.out.println("それらの差は" + diff + "です。");
 
 	}
 
