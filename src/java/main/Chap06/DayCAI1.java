@@ -16,7 +16,7 @@ public class DayCAI1 {
 				"saturday"
 		};
 		
-		System.out.println("英語の曜日名を小文字で入力してください。");
+		System.out.println("英語の曜日名を小文字で入力してください");
 		
 		int retry;
 		int last = -1;
