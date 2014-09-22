@@ -33,7 +33,7 @@ public class HumanTester2 {
 	
 	System.out.println("名前:" + takada.getName());
 	System.out.println("身長:" + takada.getHeight() + "cm");
-	System.out.println("体重" + takada.getWeight() + "kg");
+	System.out.println("体重:" + takada.getWeight() + "kg");
 
 	}
 
