@@ -17,7 +17,7 @@ public class HumanTester {
 		suzuki.weight = 60;
 		
 		takada.name = "高田龍一";
-		takada.height = 166;
+    	takada.height = 166;
 		takada.weight = 72;
 		
 		System.out.println("名前:" + suzuki.name);
