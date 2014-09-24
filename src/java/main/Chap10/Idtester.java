@@ -5,15 +5,16 @@ class Id {
 	private int id;
 	
 	public Id() {
-		id = ++counter;
+		id = ++ counter;
 	}
 	
 	public int getId() {
 		return id;
 	}
 }
+ 
 
-public class IdTester {
+public class Idtester {
 
 	public static void main(String[] args) {
 		Id a = new Id();
