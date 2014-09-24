@@ -19,7 +19,7 @@ public class Human {
 	public void gainWeight(int w)   { weight += w; }
 	public void reduceWeight(int w) { weight -= w; }
 	
-	public int gatId() { return id; }
+	public int getId() { return id; }
 	
 	public void putData() {
 		System.out.println("名前:" + name);
