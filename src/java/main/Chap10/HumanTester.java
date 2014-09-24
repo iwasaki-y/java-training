@@ -7,7 +7,7 @@ public class HumanTester {
 		Human takada = new Human("高田龍一", 166, 72);
 		
 		suzuki.putData();
-		System.out.println("番:" + suzuki.getId());
+		System.out.println("番号:" + suzuki.getId());
 		
 		System.out.println();
 		
