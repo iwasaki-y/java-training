@@ -47,7 +47,7 @@ public abstract class AbstLine extends Shape {
 	}
 	
 	/**
-	 * メソッドtoStringは、直線に関する図形情報を表す文字列を返却しあｍす。
+	 * メソッドtoStringは、直線に関する図形情報を表す文字列を返却します。
 	 * @return 文字列"AbstLine(length:3)"を返却します。
 	 *         3の部分は長さに応じた値です。
 	 */
