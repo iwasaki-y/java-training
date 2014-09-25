@@ -97,7 +97,7 @@ public class DayTester {
 		while (true) {
 			System.out.print(
 					"[1]日付に関する情報を表示 [2]日付を変更 [3]他の日付との比較\n" +
-			        "[4]前後の日付を求める         [5]終了:");
+			        "[4]前後の日付を求め         [5]終了:");
 			
 			int menu = stdIn.nextInt();
 			if (menu == 5) break;
