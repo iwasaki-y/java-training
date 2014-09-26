@@ -28,7 +28,7 @@ public class Human {
 		this.weight = weight;   this.birthday = new Day(birthday); 
 	}
 	
-	/*
+	/**
 	 * 名前を調べます。
 	 */
 	public String getName() { return name; }
