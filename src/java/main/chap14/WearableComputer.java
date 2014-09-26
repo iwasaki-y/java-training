@@ -11,7 +11,7 @@ public class WearableComputer implements Wearable {
 	}
 	
 	public void reset() {
-		System.out.println("コンピューターを再起動しました。");
+		System.out.println("コンピュータを再起動しました。");
 	}
 
 }
